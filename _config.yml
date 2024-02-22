@@ -52,3 +52,4 @@ exclude:
   - _team/
   - team.md
   - about.md
+  - _disabled/

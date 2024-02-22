@@ -49,4 +49,4 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
-  - team/
+  - _team/

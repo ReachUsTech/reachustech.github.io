@@ -1,4 +1,7 @@
 main:
+  - name: "Home"
+    url: "/"
+    weight: 1
   - name: "Services"
     url: "/services/"
     weight: 2
@@ -12,10 +15,10 @@ main:
       #    url: "/team/"
       #    weight: 5
 
-footer:
-  - name: "Home"
-    url: "/"
-    weight: 1
-  - name: "Contact"
-    url: "/contact/"
-    weight: 2
+      #footer:
+      #  - name: "Home"
+      #    url: "/"
+      #    weight: 1
+      #  - name: "Contact"
+      #    url: "/contact/"
+      #    weight: 2

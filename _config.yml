@@ -51,3 +51,4 @@ exclude:
   - README.md
   - _team/
   - team.md
+  - about.md

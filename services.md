@@ -7,5 +7,5 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Making Everything within Reach 
+# Making Everything within your Reach 
 

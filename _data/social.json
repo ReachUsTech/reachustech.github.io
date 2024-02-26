@@ -1,18 +1,13 @@
 [
   {
     "name": "Github",
-    "link": "https://github.com/ReachUsTech/site/",
+    "link": "https://github.com/ReachUsTech",
     "image": "images/social/github.svg"
   },
   {
       "name": "Email",
       "link": "mailto:reachus@reachus.tech ",
       "image": "images/social/email.svg"
-  },
-  {
-      "name": "Twitter",
-      "link": "https://twitter.com",
-      "image": "images/social/twitter.svg"
   }
 
 ]

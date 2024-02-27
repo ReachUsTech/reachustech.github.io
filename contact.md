@@ -12,12 +12,12 @@ Feel free to reach us for anything and everything.
 <form action="https://api.staticforms.xyz/submit" method="post">
  <!-- Replace with accesKey sent to your email -->
  <input type="hidden" name="accessKey" value="7f842bd8-fc5d-4a5a-8f52-37f54a16c15b">
- <label for="fname">First Name:</label><br>
- <input type="text" id="fname" name="fname" required><br>
- <label for="lname">Last Name:</label><br>
- <input type="text" id="lname" name="lname" required><br>
+ <label for="name">Name:</label><br>
+ <input type="text" id="name" name="name" required><br>
  <label for="email">Email:</label><br>
  <input type="email" id="email" name="email" required><br>
+ <label for="phone">Phone:</label><br>
+ <input type="text" id="phone" name="phone" required><br>
  <label for="message">Message:</label><br>
  <textarea id="message" name="message" rows="4" cols="50" required></textarea><br><br>
  
